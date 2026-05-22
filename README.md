@@ -61,8 +61,7 @@
 
   <tr>
 	<td>
-	  <a href="https://github.com/dbouizem/get_next_line"><b>get_next_line</b></a> /
-	  <a href="https://github.com/dbouizem/get_next_line_improved">improved</a><br>
+	  <a href="https://github.com/dbouizem/get_next_line"><b>get_next_line</b></a><br>
 	  Efficient line-by-line reader from file descriptors with optimized memory handling.
 	</td>
 	<td align="center"><a href="subjects_comun_core/get_next_line_v14.0.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
