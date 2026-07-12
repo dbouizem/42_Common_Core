@@ -1,5 +1,14 @@
 <h1 align="center">42 School Common Core</h1>
 
+<div align="center">
+  <a href="https://github.com/dbouizem">
+    <img
+      src="https://badge.mediaplus.ma/darkblue/dbouizem?1337Badge=off&UM6P=off"
+      alt="Statistiques 42 de dbouizem"
+    />
+  </a>
+</div>
+
 </br>
 
 <p align="center">
