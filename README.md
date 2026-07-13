@@ -196,23 +196,38 @@
 	<td>Graph</td>
   </tr>
 
+  <tr>
+	<td>
+	  <a href="https://github.com/dbouizem/netpractice"><b>NetPractice</b></a><br>
+	  Practical introduction to IPv4 addressing, subnet masks, routing, and network configuration.
+	</td>
+	<td align="center"><a href="subjects_comun_core/NetPractice_v6.2.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
+	<td align="center"><a href="https://www.42evalhub.com/common/netpractice"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
+	<td align="center"><a href="https://github.com/ricardoreves/42-net-practice"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+	<td>
+	  <img src="https://img.shields.io/badge/IPv4-00599C?style=flat-square"/>
+	  <img src="https://img.shields.io/badge/Networking-2ea043?style=flat-square"/>
+	</td>
+	<td><img src="https://img.shields.io/badge/Subnetting-555555?style=flat-square"/></td>
+	<td>Network</td>
+  </tr>
+
 </table>
 </div>
 
-<!--
 <h1 align="center"></h1>
 
 </br></br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Object-Oriented+Programming;C%2B%2B+Fundamentals;Inheritance+%2F+Polymorphism;Templates+%2F+STL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Object-Oriented+Programming;C%2B%2B+Fundamentals;Inheritance+%2F+Polymorphism" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/OOP-6f42c1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STL-2ea043?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Templates-ff9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Classes-2ea043?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Polymorphism-ff9800?style=for-the-badge"/>
 </p>
 
 <div align="center">
@@ -222,105 +237,53 @@
 	<th>Project</th>
 	<th>Subject</th>
 	<th>Evaluation</th>
-	<th>Repository</th>
 	<th>Technologies</th>
 	<th>Focus</th>
 	<th>Domain</th>
   </tr>
   <tr>
-	<td><a href="https://github.com/dbouizem/cpp00"><b>CPP Module 00</b></a><br>Introduction to C++ syntax, namespaces, classes, member functions, and basic I/O.</td>
-	<td align="center"><a href="subjects_cpp/CPP_Module_00.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
-	<td align="center"><a href="#"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
-	<td align="center"><a href="https://github.com/dbouizem/cpp00"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+	<td><a href="https://github.com/dbouizem/CPP-Modules/tree/main/Module00"><b>CPP Module 00</b></a><br>Introduction to C++ syntax, namespaces, classes, member functions, and basic I/O.</td>
+	<td align="center"><a href="subjects_comun_core/cpp_module_00_v11.1.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
+	<td align="center"><a href="https://www.42evalhub.com/common/cpp00"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
 	<td><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></td>
 	<td><img src="https://img.shields.io/badge/Basics-555555?style=flat-square"/></td>
 	<td>OOP</td>
   </tr>
   <tr>
-	<td><a href="https://github.com/dbouizem/cpp01"><b>CPP Module 01</b></a><br>Memory allocation, references, pointers to members, switch statements, and object lifecycle.</td>
-	<td align="center"><a href="subjects_cpp/CPP_Module_01.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
-	<td align="center"><a href="#"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
-	<td align="center"><a href="https://github.com/dbouizem/cpp01"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+	<td><a href="https://github.com/dbouizem/CPP-Modules/tree/main/Module01"><b>CPP Module 01</b></a><br>Memory allocation, references, pointers to members, switch statements, and object lifecycle.</td>
+	<td align="center"><a href="subjects_comun_core/cpp_module_01_v11.1.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
+	<td align="center"><a href="https://www.42evalhub.com/common/cpp01"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
 	<td><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></td>
 	<td><img src="https://img.shields.io/badge/Memory-9C27B0?style=flat-square"/></td>
 	<td>OOP</td>
   </tr>
   <tr>
-	<td><a href="https://github.com/dbouizem/cpp02"><b>CPP Module 02</b></a><br>Ad-hoc polymorphism, operator overloading, Orthodox Canonical Form, and fixed-point numbers.</td>
-	<td align="center"><a href="subjects_cpp/CPP_Module_02.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
-	<td align="center"><a href="#"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
-	<td align="center"><a href="https://github.com/dbouizem/cpp02"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+	<td><a href="https://github.com/dbouizem/CPP-Modules/tree/main/Module02"><b>CPP Module 02</b></a><br>Ad-hoc polymorphism, operator overloading, Orthodox Canonical Form, and fixed-point numbers.</td>
+	<td align="center"><a href="subjects_comun_core/cpp_module_02_v9.1.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
+	<td align="center"><a href="https://www.42evalhub.com/common/cpp02"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
 	<td><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></td>
 	<td><img src="https://img.shields.io/badge/Overloading-555555?style=flat-square"/></td>
 	<td>OOP</td>
   </tr>
   <tr>
-	<td><a href="https://github.com/dbouizem/cpp03"><b>CPP Module 03</b></a><br>Inheritance, class hierarchy, constructors, destructors, and derived classes.</td>
-	<td align="center"><a href="subjects_cpp/CPP_Module_03.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
-	<td align="center"><a href="#"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
-	<td align="center"><a href="https://github.com/dbouizem/cpp03"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+	<td><a href="https://github.com/dbouizem/CPP-Modules/tree/main/Module03"><b>CPP Module 03</b></a><br>Inheritance, class hierarchy, constructors, destructors, and derived classes.</td>
+	<td align="center"><a href="subjects_comun_core/cpp_module_03_v8.1.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
+	<td align="center"><a href="https://www.42evalhub.com/common/cpp03"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
 	<td><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></td>
 	<td><img src="https://img.shields.io/badge/Inheritance-6f42c1?style=flat-square"/></td>
 	<td>OOP</td>
   </tr>
   <tr>
-	<td><a href="https://github.com/dbouizem/cpp04"><b>CPP Module 04</b></a><br>Subtype polymorphism, abstract classes, interfaces, virtual destructors, and deep copies.</td>
-	<td align="center"><a href="subjects_cpp/CPP_Module_04.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
-	<td align="center"><a href="#"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
-	<td align="center"><a href="https://github.com/dbouizem/cpp04"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+	<td><a href="https://github.com/dbouizem/CPP-Modules/tree/main/Module04"><b>CPP Module 04</b></a><br>Subtype polymorphism, abstract classes, interfaces, virtual destructors, and deep copies.</td>
+	<td align="center"><a href="subjects_comun_core/cpp_module_04_v13.1.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
+	<td align="center"><a href="https://www.42evalhub.com/common/cpp04"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
 	<td><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></td>
 	<td><img src="https://img.shields.io/badge/Polymorphism-6f42c1?style=flat-square"/></td>
-	<td>OOP</td>
-  </tr>
-  <tr>
-	<td><a href="https://github.com/dbouizem/cpp05"><b>CPP Module 05</b></a><br>Exceptions, bureaucratic forms, error handling, and control flow through class design.</td>
-	<td align="center"><a href="subjects_cpp/CPP_Module_05.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
-	<td align="center"><a href="#"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
-	<td align="center"><a href="https://github.com/dbouizem/cpp05"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-	<td><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></td>
-	<td><img src="https://img.shields.io/badge/Exceptions-d73a49?style=flat-square"/></td>
-	<td>OOP</td>
-  </tr>
-  <tr>
-	<td><a href="https://github.com/dbouizem/cpp06"><b>CPP Module 06</b></a><br>C++ casts, scalar conversion, serialization, reinterpretation, and dynamic type checks.</td>
-	<td align="center"><a href="subjects_cpp/CPP_Module_06.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
-	<td align="center"><a href="#"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
-	<td align="center"><a href="https://github.com/dbouizem/cpp06"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-	<td><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></td>
-	<td><img src="https://img.shields.io/badge/Casting-555555?style=flat-square"/></td>
-	<td>OOP</td>
-  </tr>
-  <tr>
-	<td><a href="https://github.com/dbouizem/cpp07"><b>CPP Module 07</b></a><br>Function templates, class templates, generic programming, and type-independent logic.</td>
-	<td align="center"><a href="subjects_cpp/CPP_Module_07.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
-	<td align="center"><a href="#"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
-	<td align="center"><a href="https://github.com/dbouizem/cpp07"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-	<td><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></td>
-	<td><img src="https://img.shields.io/badge/Templates-ff9800?style=flat-square"/></td>
-	<td>OOP</td>
-  </tr>
-  <tr>
-	<td><a href="https://github.com/dbouizem/cpp08"><b>CPP Module 08</b></a><br>Templated containers, iterators, algorithms, and STL-based programming.</td>
-	<td align="center"><a href="subjects_cpp/CPP_Module_08.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
-	<td align="center"><a href="#"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
-	<td align="center"><a href="https://github.com/dbouizem/cpp08"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-	<td><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></td>
-	<td><img src="https://img.shields.io/badge/STL-2ea043?style=flat-square"/></td>
-	<td>OOP</td>
-  </tr>
-  <tr>
-	<td><a href="https://github.com/dbouizem/cpp09"><b>CPP Module 09</b></a><br>STL containers, algorithms, data processing, Ford-Johnson sort, Bitcoin exchange, and RPN.</td>
-	<td align="center"><a href="subjects_cpp/CPP_Module_09.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
-	<td align="center"><a href="#"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
-	<td align="center"><a href="https://github.com/dbouizem/cpp09"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-	<td><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></td>
-	<td><img src="https://img.shields.io/badge/STL_Algorithms-2ea043?style=flat-square"/></td>
 	<td>OOP</td>
   </tr>
 </table>
 
 </div>
--->
 
 <h1 align="center"></h1>
 
@@ -336,6 +299,7 @@
 |---|---|---|
 | [**Rank 02**](https://github.com/dbouizem/Rank_02) | Algorithms, data structures, memory management, and C fundamentals. | ![Exercises](https://img.shields.io/badge/Exercises-55-blue?style=for-the-badge) |
 | [**Rank 03**](https://github.com/dbouizem/Rank_03) | Advanced algorithms, parsing, pointers, and system programming exercises. | ![Exercises](https://img.shields.io/badge/Exercises-08-green?style=for-the-badge) |
+| [**Rank 04**](https://github.com/dbouizem/Rank_04) | UNIX process management, pipes, command execution, and shell fundamentals. | ![Exercises](https://img.shields.io/badge/Exercises-01-orange?style=for-the-badge) |
 
 </div>
 
